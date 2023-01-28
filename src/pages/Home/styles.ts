@@ -25,7 +25,7 @@ export const ListItem = tw.li<ListItemProps>`
   p-6
   m-3
   w-52
-  ${(p: ListItemProps) => (p.$open ? "bg-gray-300" : "bg-green-300")}
+  ${(p: ListItemProps) => (p.$open ? "bg-gray-400" : "bg-green-400")}
   text-gray-800
   font-bold
   rounded-md
@@ -60,7 +60,7 @@ export const Form = tw.form`
 `;
 
 export const Input = tw.input`
-  bg-gray-200
+  bg-gray-300
   p-2
   rounded-md
   w-full

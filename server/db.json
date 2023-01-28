@@ -8,7 +8,7 @@
     {
       "id": 4,
       "title": "Implement feature C on backend",
-      "status": "open"
+      "status": "closed"
     },
     {
       "id": 5,
@@ -23,7 +23,7 @@
     {
       "id": 7,
       "title": "Implement feature D on frontend",
-      "status": "open"
+      "status": "closed"
     },
     {
       "id": 8,
@@ -43,7 +43,7 @@
     {
       "id": 11,
       "title": "Implement feature E on frontend",
-      "status": "open"
+      "status": "closed"
     },
     {
       "id": 12,
